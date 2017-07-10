@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/2a6e5d26ddbdd740c2adbcdc302fc293a1596bea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dfff7b060ced6e08be792163b27d27e9fea3ccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/c9544a9229aaeb6fe8db3421af89174e09d32d1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d0402fe008e0398299f5fd298efc4ef5736be5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/7d45e12a6a02699316205bd07973c13b08e925c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ef22fbc48c3059af6eae3165f3ef3e5dde7aa1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c67fbc67d67b4a3c6267625a7bc6c368f040d2c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/RuntimePermission/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a11143363bfef99b0d136c01f063b0d16f1fce95">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9b9e76edde8f49167e9aa0cac4f189238ae77d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/d0cdf0f94b7ee73c36e5ffac15db0c5aaf97a537/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fb9174cc41f655901f1aebbe5174bedcd8045ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/RuntimePermission/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c71cfa8459baaaf0059285869bdd53ad6fb0f7f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/7e9ad561ba6dbe2b786aeda644dd6298bb19f505/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3f22cd603bb9cb062dd6e73d4fb4d532cccd813/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/9694baa5e25eca056548954e0158a3659cc61c86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d294665239912f3407abf2cf1bcd2dcae0f1d8d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/6d43e7168e602e7fc91226c5e34792cc1c5d3819/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a0f043b68d5c3dca3f67c7611d355b37e1ccdbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/c1ffb8972a11aa5d7e348a3b7fd2194aaca35de6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d06e74c75d5efd71b498add54d4885f4db96bc2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_699db0183e13fa1dc99176dba8fd4f96a2decd57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/d42be46962efdc3afb0f4d90848a9a337e06b4b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e02bfaa5ecd78db634dd5a13fc1dab419fc84183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thunderat/.android/build-cache/724c53ff9f565143598881fe7a0eea32adf81be5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/thunderat/RuntimePermission/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65e6b3af030f5a74406e488649b95423b5673c16/classes.dex" />
+    </item>
+
+</items>
